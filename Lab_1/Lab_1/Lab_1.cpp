@@ -25,22 +25,22 @@ m1:		mov eax, [ebx]
 		jl m1
 	}
 
-	//Передача массива с командой loops
-	//_asm {
-		//mov ecx, 10
-		//m2:
+//	передача массива с командой loops
+	_asm {
+		mov ecx, 10
+		m2:
 
 	
-	//loop  m2}
+	loop  m2}
 
-	//Передача массива с командой movs
-//	__asm {
-//		lea ebx, A
-//		cld //сборос флага наполнения
-//		lea esi, A
-//	}
+//	передача массива с командой movs
+	__asm {
+		lea ebx, a
+		cld //сборос флага наполнения
+		lea esi, a
+	}
 
-	//_asm rep movs;
+	_asm rep movs;
 
 	for (int i = 0; i < 10; i++) {
 		std::cout << B[i] << " ";
