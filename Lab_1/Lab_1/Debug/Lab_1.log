@@ -1,0 +1,103 @@
+﻿  Assembling Lab_1.cpp...
+Lab_1.cpp(1): error A2044: invalid character in file
+Lab_1.cpp(3): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(4): error A2008: syntax error
+Lab_1.cpp(5): error A2008: syntax error
+Lab_1.cpp(7): error A2044: invalid character in file
+Lab_1.cpp(8): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(9): error A2048: nondigit in number
+Lab_1.cpp(10): error A2048: nondigit in number
+Lab_1.cpp(12): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(14): error A2044: invalid character in file
+Lab_1.cpp(15): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(16): error A2034: must be in segment block
+Lab_1.cpp(17): error A2034: must be in segment block
+Lab_1.cpp(18): error A2034: must be in segment block
+Lab_1.cpp(19): error A2034: must be in segment block
+Lab_1.cpp(20): error A2034: must be in segment block
+Lab_1.cpp(21): error A2034: must be in segment block
+Lab_1.cpp(22): error A2034: must be in segment block
+Lab_1.cpp(23): error A2034: must be in segment block
+Lab_1.cpp(24): error A2034: must be in segment block
+Lab_1.cpp(25): error A2034: must be in segment block
+Lab_1.cpp(26): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(28): error A2044: invalid character in file
+Lab_1.cpp(29): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(30): error A2008: syntax error : /
+Lab_1.cpp(31): error A2008: syntax error : /
+Lab_1.cpp(34): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(36): error A2044: invalid character in file
+Lab_1.cpp(37): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(38): error A2008: syntax error : /
+Lab_1.cpp(39): error A2044: invalid character in file
+Lab_1.cpp(40): error A2008: syntax error : /
+Lab_1.cpp(41): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(43): error A2008: syntax error : /
+Lab_1.cpp(45): error A2008: syntax error : (
+Lab_1.cpp(46): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(47): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(48): error A2008: syntax error : return
+Lab_1.cpp(49): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(50): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(51): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(52): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(53): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(54): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(55): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(56): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(57): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(58): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(59): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(60): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(61): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(62): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(63): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(64): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(65): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(66): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(67): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(68): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(69): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(70): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(71): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(72): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(73): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(74): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(75): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(76): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(77): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(78): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(79): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(80): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(81): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(82): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(83): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(84): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(85): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(86): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(87): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(88): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(89): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(90): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(91): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(92): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(93): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(94): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(95): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(96): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(97): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(98): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(99): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(100): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(101): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(102): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(103): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(104): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(105): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(106): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(107): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(108): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(109): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(110): error A2045: missing angle bracket or brace in literal
+Lab_1.cpp(111): fatal error A1012: error count exceeds 100; stopping assembly
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\Lab_1.obj" /W3 /errorReport:prompt  /TaLab_1.cpp" с кодом "1".

@@ -1,0 +1,53 @@
+﻿  Lab_7.cpp
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(5,38): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(7,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(8,9): error C2065: finit: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(10,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(10,9): error C2065: fld: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(10,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(12,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(12,9): error C2065: fld: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(12,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "b"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(14,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(14,9): error C2065: fld: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "c"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(16,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fadd"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(16,9): error C2065: fadd: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(18,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fadd"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(18,9): error C2065: fadd: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(20,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstp"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(20,9): error C2065: fstp: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(20,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "r"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(20,14): error C2065: r: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(22,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(22,9): error C2065: fld: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(24,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fldz"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(24,9): error C2065: fldz: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(26,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fdiv"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(26,9): error C2065: fdiv: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(28,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstp"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(28,9): error C2065: fstp: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(28,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "r"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(28,14): error C2065: r: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(30,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fld"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(30,9): error C2065: fld: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(30,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(32,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fldz"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(32,9): error C2065: fldz: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(34,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstcw"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(34,9): error C2065: fstcw: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(34,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cwRegister"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(36,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "!"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(38,9): error C2143: синтаксическая ошибка: отсутствие ";" перед "!"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(40,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fldcw"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(38,9): warning C4552: "!": результат выражения не используется
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(40,9): error C2065: fldcw: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(40,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cwRegister"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(42,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fdiv"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(42,9): error C2065: fdiv: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(43,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstp"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(43,9): error C2065: fstp: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(43,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "r"
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(43,14): error C2065: r: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_7\Lab_7\Lab_7.cpp(44,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

@@ -1,0 +1,13 @@
+﻿  Lab_5.cpp
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(4,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(5,9): error C2065: mov: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(5,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(5,13): error C2065: eax: необъявленный идентификатор
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(5,23): error C2143: синтаксическая ошибка: отсутствие "]" перед "+"
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(5,23): error C3481: ebp: передаваемая переменная в лямбда-выражении не найдена
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(5,23): error C3260: "+": пропускаются непредвиденные токены перед телом лямбда-функции
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(15,5): error C7553: Лямбда-выражение не поддерживает встроенный ассемблерный код.
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(26,1): error C2144: синтаксическая ошибка: перед "__int64" требуется ";"
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(26,51): error C2601: shift_global: недопустимые локальные определения функций
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(40,5): error C2601: main: недопустимые локальные определения функций
+C:\Users\times up\source\repos\Lab_5\Lab_5\Lab_5.cpp(72,1): fatal error C1004: непредвиденное обнаружение конца файла
